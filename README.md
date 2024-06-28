@@ -6,4 +6,7 @@
 
 📄 **Список компонентов**: https://github.com/PM-KIRILL/ESP8266-USB/blob/60617833b809e8add045336854bc265a2f4e0f21/BOM.
 
-📂 **Gerber-файлы печатной платы**: .
+📂 **Gerber-файлы печатной платы**: https://github.com/PM-KIRILL/ESP8266-USB/releases/download/beta/ESP8266-USB-GERBER.zip.
+
+<img src="https://github.com/PM-KIRILL/ESP8266-USB/blob/main/1.png" alt="1.png" width="500">
+<img src="https://github.com/PM-KIRILL/ESP8266-USB/blob/main/2.png" alt="2.png" width="500">
